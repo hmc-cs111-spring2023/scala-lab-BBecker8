@@ -4,4 +4,7 @@
   *  Hint: the Scala collections API is your friend
   *  https://docs.scala-lang.org/overviews/scala-book/collections-methods.html
   */
-def isPalindrome(s: String): Boolean = throw new NotImplementedError
+def isPalindrome(s: String): Boolean = 
+  val cleanedString = s.filter(c => c.isLetter).toLowerCase
+  cleanedString == cleanedString.reverse
+
