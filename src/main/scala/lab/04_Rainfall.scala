@@ -12,4 +12,7 @@
   *  Hint: the Scala collections API is your friend
   *  https://docs.scala-lang.org/overviews/scala-book/collections-methods.html
   */
-def rainfall(data: Seq[Double]): Double = throw new NotImplementedError
+def rainfall(data: Seq[Double]): Double = 
+  val validReadings = data.takeWhile(_ != -999).filter(_ >= 0)
+  if (validReadings.isEmpty) Double.NaN
+  else validReadings.sum / validReadings.length

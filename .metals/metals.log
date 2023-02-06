@@ -112,3 +112,89 @@ WARNING: Unmatched cancel notification for request id 922
 2023.02.06 22:29:31 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
 Feb 06, 2023 10:29:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2023.02.06 22:38:58 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:39:01 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:39:16 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+Feb 06, 2023 10:39:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1035
+2023.02.06 22:39:20 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:39:28 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:39:30 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:39:33 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:39:35 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:39:41 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:39:45 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+Feb 06, 2023 10:39:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1156
+2023.02.06 22:39:50 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:39:55 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:39:56 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:40:03 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:40:09 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:40:15 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:40:16 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:40:24 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:40:30 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:40:33 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+Feb 06, 2023 10:40:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1261
+2023.02.06 22:40:44 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:40:46 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:40:54 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:40:55 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:40:57 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:41:03 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:41:09 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:41:11 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:41:18 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:41:27 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:41:30 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+Feb 06, 2023 10:41:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1380
+2023.02.06 22:41:32 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+Feb 06, 2023 10:48:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1398
+Feb 06, 2023 10:49:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1416
+2023.02.06 22:49:06 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:49:11 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+Feb 06, 2023 10:49:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1448
+2023.02.06 22:49:23 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:49:28 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:50:02 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+Feb 06, 2023 10:50:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1485
+2023.02.06 22:50:08 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:50:11 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:50:52 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:50:55 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:50:57 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:51:01 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:51:05 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+Feb 06, 2023 10:51:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1588
+2023.02.06 22:51:15 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:51:17 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:51:20 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:52:17 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:52:20 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:52:30 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:52:34 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:52:39 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:52:42 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:52:46 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:52:56 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+Feb 06, 2023 10:54:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1804
+Feb 06, 2023 10:54:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1808
+2023.02.06 22:55:24 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/03_Palindrome.scala
+Feb 06, 2023 10:55:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1829
+2023.02.06 22:55:43 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/04_Rainfall.scala
+Feb 06, 2023 10:55:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1847
+Feb 06, 2023 10:56:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1856
+2023.02.06 22:58:18 WARN  no build target for: /workspaces/scala-lab-BBecker8/src/main/scala/lab/04_Rainfall.scala
